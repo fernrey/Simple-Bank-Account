@@ -1,0 +1,18 @@
+Bank Menu Database
+==================
+Account		Balance
+6211		50.01
+1234		42.01
+4321		100.33
+8954		0.01
+
+q is not a valid input
+Bank Accounts Database
+=======================
+Processed Bank Data Base
+========================
+Account		Balance
+6211		50.01
+1234		42.01
+4321		100.33
+8954		0.01
